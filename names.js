@@ -1,8 +1,8 @@
-const date = (firstName, lastName) => {
+const names = (firstName, lastName) => {
   return {
     firstName,
     lastName
   }
 }
 
-module.exports = date
+module.exports = names
